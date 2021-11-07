@@ -6,6 +6,7 @@ Creates a button in the top right part of the shell top bar for toggling.
 ```bash
 mkdir $HOME/.local/share/gnome-shell/extensions/togglemon/
 cp * $HOME/.local/share/gnome-shell/extensions/togglemon/
+cp toggle-monitor.sh /home/user
 gnome-extensions enable togglemon
 ```
 
